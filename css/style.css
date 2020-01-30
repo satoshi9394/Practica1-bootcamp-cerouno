@@ -7,6 +7,10 @@
 
 }
 
+body{
+    background-color: var(--cyan);
+}
+
 .container{
     width: 95vw;
 }
@@ -40,3 +44,19 @@
     height: 7em;
 }
 
+.img-footer{
+    height: 60px;
+    padding-left: 10px;
+}
+
+#footer-title{
+    margin: 0;
+}
+
+#footer{
+    padding-top: 10px;
+}
+
+#footer-row{
+    margin-bottom: 10px;
+}
