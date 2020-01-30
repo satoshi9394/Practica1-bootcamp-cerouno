@@ -11,8 +11,13 @@
     width: 95vw;
 }
 
+#home{
+    width: 50px;
+}
+
 #hero{
     padding: 10px 0;
+    margin: 0;
 }
 
 #hero-img{
