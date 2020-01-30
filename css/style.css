@@ -1,0 +1,62 @@
+:root
+{
+    --verde-fuerte: rgb(43, 187, 84);
+    --celeste:      #1620A6;
+    --cyan:         #00838F;
+    --cyan-dark:    #006972;
+
+}
+
+body{
+    background-color: var(--cyan);
+}
+
+.container{
+    width: 95vw;
+}
+
+#home{
+    width: 50px;
+}
+
+#hero{
+    padding: 10px 0;
+    margin: 0;
+}
+
+#hero-img{
+    width: 90%;
+    height: 60vh;
+}
+
+#hero-text h5{
+    margin: 0;
+}
+
+#hero-text p{
+    font-size: 0.85em;
+    color: var(--verde-fuerte);
+    text-align: justify;
+}
+
+
+.hobbies{
+    height: 7em;
+}
+
+.img-footer{
+    height: 60px;
+    padding-left: 10px;
+}
+
+#footer-title{
+    margin: 0;
+}
+
+#footer{
+    padding-top: 10px;
+}
+
+#footer-row{
+    margin-bottom: 10px;
+}
