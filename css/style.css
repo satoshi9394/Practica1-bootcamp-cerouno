@@ -1,0 +1,71 @@
+:root
+{
+    --verde-fuerte: #33CD5F;
+    --celeste:      #1620A6;
+    --cyan:         #00838F;
+    --cyan-dark:    #006972;
+
+}
+
+body{
+    background-color: var(--celeste);
+}
+
+.title-hero{
+    margin-top: 10px;
+}
+
+#hero-img{
+    margin: 10px;
+    height: 50vh;
+}
+
+#title-hobbies{
+    color: var(--verde-fuerte);
+
+}
+
+
+#row-hobbies p{
+    margin-top: 10px;
+}
+
+.list-group-item{
+    background: none;
+    border: 0;
+    padding: 0;
+}
+
+.item-img {
+    padding-bottom: 10px;
+}
+
+.img-hobbies
+{
+    height: 20vh;
+}
+
+#footer-redes{
+    background-color: var(--cyan);
+}
+
+.img-footer{
+    height: 60px;
+}
+
+#cerouno{
+    padding-bottom: 10px;
+    height: 80px;
+}
+
+#footer-title{
+    margin-bottom: 0;
+}
+
+#row-redes{
+    margin-left: 8vw;
+}
+
+.footer-copyright{
+    background-color: var(--cyan-dark);
+}
